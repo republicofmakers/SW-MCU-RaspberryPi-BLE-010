@@ -1,4 +1,4 @@
-# SW-RaspberryPi-Thonny-BLE-010
+# SW-MCU-RaspberryPi-BLE-010
 
 Here is simple BLE code to send data to your phone from develeopment board. I used pico-W.
 
